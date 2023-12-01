@@ -2,8 +2,8 @@
 
 Malaysian boycott project website
 
-•	A screenshot of your project, showing how it looks.
-![alt text] (![Web capture_1-12-2023_153718_project-placement-boycott glitch me](https://github.com/action2764/Malaysian-boycott-project/assets/150757010/e274a2a9-a47d-4475-94b2-1dabdf782bc8)
+•	A screenshot of your project
+ (![Web capture_1-12-2023_153718_project-placement-boycott glitch me](https://github.com/action2764/Malaysian-boycott-project/assets/150757010/e274a2a9-a47d-4475-94b2-1dabdf782bc8)
 )
 
 
