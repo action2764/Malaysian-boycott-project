@@ -39,11 +39,6 @@ High-quality images of food and incorporation of traditional patterns and textur
 I used glitch.com to create html website with css and javascript as I used o do coding for gaming and create websites during my first year
 Also I created a video diary of me doing the coding by screen record my own desktop and make it narrative by editing using premiere pro
 
-
-# Wireframes 
-![product page wireframe](![Alt text](Settings-Directory-1.png))
-
-
 # screenshot of my project
  ![Web capture_1-12-2023_153718_project-placement-boycott glitch me](https://github.com/action2764/Malaysian-boycott-project/assets/150757010/e274a2a9-a47d-4475-94b2-1dabdf782bc8)
 
