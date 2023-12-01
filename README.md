@@ -3,7 +3,8 @@ Malaysian boycott project website
  ![Web capture_1-12-2023_153718_project-placement-boycott glitch me](https://github.com/action2764/Malaysian-boycott-project/assets/150757010/e274a2a9-a47d-4475-94b2-1dabdf782bc8)
 
 •	Any other images or files that describe/explain your project (wireframes, flowcharts etc).
-![download (3)](https://github.com/action2764/Malaysian-boycott-project/assets/150757010/7841af85-7440-40bb-8831-f91df3911f9f)
+![maxresdefault (3)](https://github.com/action2764/Malaysian-boycott-project/assets/150757010/a42c932f-f690-486c-a2af-7f45da5088bc)
+
 
 
 
